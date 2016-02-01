@@ -1,0 +1,70 @@
+{
+  "name": "cli",
+  "vendor": "ecmal",
+  "version": "0.0.1",
+  "registry": "github",
+  "bundle": false,
+  "libraries": {
+    "core": "0.0.1",
+    "node": "0.0.1",
+    "runtime": "0.0.1"
+  },
+  "author": {
+    "name": "Sergey Mamyan",
+    "email": "sergey.mamyan@gmail.com"
+  },
+  "commit": "12c7b59420f7fec7fb81d3eef1072cf02cab5b79",
+  "repository": "https://github.com/ecmal/cli.git",
+  "modules": {
+    "command": {
+      "name": "command",
+      "version": "dd3a0e03884b6394648dac6a50943ec3",
+      "size": 362,
+      "hash": "aefd8527f6f9ccc831f38902c4155e06",
+      "files": {
+        ".ts": {
+          "size": 23,
+          "hash": "dd3a0e03884b6394648dac6a50943ec3",
+          "sha": "bd6dd676178e5e6a7d62ddd6c09051ec8e844ff2"
+        },
+        ".js.map": {
+          "size": 353,
+          "hash": "786491ef4445599cdb0f9e7f3c02afca"
+        },
+        ".js": {
+          "size": 362,
+          "hash": "aefd8527f6f9ccc831f38902c4155e06"
+        },
+        ".d.ts": {
+          "size": 33,
+          "hash": "783b01829f4f16b596d324e2624a70b3"
+        }
+      }
+    },
+    "commander": {
+      "name": "commander",
+      "version": "ec822f5afec6bdd86c89289bb443914a",
+      "size": 376,
+      "hash": "e8d88a984eaa3f72dd0ef14a61c4cc3c",
+      "files": {
+        ".ts": {
+          "size": 24,
+          "hash": "ec822f5afec6bdd86c89289bb443914a",
+          "sha": "0b173d73c807bfa712b50c0347cfdf7fc08c1f76"
+        },
+        ".js.map": {
+          "size": 363,
+          "hash": "719c4fdb3fa09efe5bd113dfdde1a77d"
+        },
+        ".js": {
+          "size": 376,
+          "hash": "e8d88a984eaa3f72dd0ef14a61c4cc3c"
+        },
+        ".d.ts": {
+          "size": 35,
+          "hash": "d16ef1df749d0d91fcb9422cb25cf645"
+        }
+      }
+    }
+  }
+}

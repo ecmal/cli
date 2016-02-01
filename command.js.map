@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "file": "command.js",
+  "sourceRoot": "/Users/Sergey/Work/BB/ecmal/cli/src",
+  "sources": [
+    "command.ts"
+  ],
+  "names": [
+    "Command",
+    "Command.constructor"
+  ],
+  "mappings": ";;;;;YAAA;gBAAAA;gBAAsBC,CAACA;gBAADD,cAACA;YAADA,CAACA,AAAvB,IAAuB;YAAvB,6BAAuB,CAAA",
+  "sourcesContent": [
+    "export class Command {}"
+  ]
+}
