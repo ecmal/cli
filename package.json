@@ -1,9 +1,13 @@
 {
-  "name"          : "sample",
+  "name"          : "cli",
   "version"       : "0.0.1",
   "registry"      : "github",
   "vendor"        : "ecmal",
-  "main"          : "Main",
+  "main"          : "tests",
+  "directories"   : {
+    "source"      : "src",
+    "vendor"      : "out"
+  },
   "libraries"     : {
     "core"        : "0.0.1",
     "node"        : "0.0.1",
